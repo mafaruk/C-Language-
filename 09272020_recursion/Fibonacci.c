@@ -13,5 +13,8 @@ int reFab(int n, int fab, int limit){
 	}
 }
 int main(){	
-	reFab(0,1,100);
+	int n =0;
+	int fabb= 1;
+	int limit=100;
+	reFab(n,fabb,limit);
 }

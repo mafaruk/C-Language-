@@ -3,3 +3,6 @@ int increament (){
 	int count = 1;
 	return count = count + a;
 }
+void changeStatic(){
+	a++;
+}
